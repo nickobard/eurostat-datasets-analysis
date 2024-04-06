@@ -97,3 +97,7 @@ fabric.properties
 !.idea/runConfigurations
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all
+
+# R
+.Rdata
+.Rhistory
